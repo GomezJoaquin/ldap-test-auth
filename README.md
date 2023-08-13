@@ -13,7 +13,7 @@ Antes de ejecutar el script, asegúrese de configurar los siguientes parámetros
 
 ```python
 server_address = 'address:389'
-domain_name = 'gxctest.local'
+domain_name = 'dominioad.local'
 username = 'user@' + domain_name
 password = 'pass'
 ```
